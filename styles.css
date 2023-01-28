@@ -1,0 +1,20 @@
+body{
+
+    background: black;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.contenedorPrincipal{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.contenedorPrincipal img{
+
+    width: 300px;
+    padding: 10px;
+}
